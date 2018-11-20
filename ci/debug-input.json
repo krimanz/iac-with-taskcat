@@ -45,6 +45,6 @@
     },
     {
         "ParameterKey":"GlobalOverrideTest",
-        "ParameterValue":"world"
+        "ParameterValue":"override"
     }
 ]
